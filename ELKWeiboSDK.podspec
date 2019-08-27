@@ -14,7 +14,7 @@ s.description  = <<-DESC
 s.homepage     = "https://github.com/CircusJonathan/ELKWeiboSDK"
 
 s.license      = "MIT"
-s.author             = { "Jonathan" => "Jonathan_dk@163.com" }
+s.author       = { "Jonathan" => "Jonathan_dk@163.com" }
 
 s.platform     = :ios
 

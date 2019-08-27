@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 
 s.name         = "ELKWeiboSDK"
 
-s.version      = "3.2.2"
+s.version      = "3.2.2.1"
 
 s.summary      = "新浪微博WeiboSDK"
 

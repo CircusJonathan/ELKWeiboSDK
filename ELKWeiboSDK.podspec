@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 
 s.name         = "ELKWeiboSDK"
 
-s.version      = "3.2.6"
+s.version      = "3.2.7"
 
 s.summary      = "新浪微博WeiboSDK"
 
@@ -20,7 +20,7 @@ s.platform     = :ios
 
 s.source       = { :git => "https://github.com/elkshrek/ELKWeiboSDK.git", :tag => "#{s.version}" }
 
-s.requires_arc = true
+s.requires_arc = false
 
 
 s.vendored_libraries  = "ELKWeiboSDK/libWeiboSDK.a"
